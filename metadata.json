@@ -1,0 +1,6 @@
+{
+  "name": "TicketSphere",
+  "description": "Premium Online Ticket Booking Platform for flights, trains, buses, events & concerts with interactive seat selection, AI smart search, QR digital tickets, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
